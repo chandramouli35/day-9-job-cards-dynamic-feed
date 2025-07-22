@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["React", "JavaScript", "Tailwind"]
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "Google",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "Google",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["React", "Node.js", "TypeScript"]
+  },
+  {
+    "id": 4,
+    "title": "Cloud Solutions Architect",
+    "company": "Microsoft",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["Azure", "DevOps", "Kubernetes", "CI/CD"]
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "company": "Amazon",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["Python", "Machine Learning", "AWS", "Pandas"]
+  },
+  {
+    "id": 6,
+    "title": "Backend Developer",
+    "company": "Oracle",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["Java", "SQL", "Spring Boot", "REST API"]
+  },
+  {
+    "id": 7,
+    "title": "AI Engineer",
+    "company": "OpenAI",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["Python", "PyTorch", "Machine Learning", "NLP"]
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Developer",
+    "company": "Flipkart",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["React Native", "Kotlin", "REST API"]
+  },
+  {
+    "id": 9,
+    "title": "Software Engineer",
+    "company": "Meta",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["React", "GraphQL", "JavaScript", "Flow"]
+  },
+  {
+    "id": 10,
+    "title": "iOS Developer",
+    "company": "Apple",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["Swift", "Objective-C", "Xcode", "UI/UX Design"]
+  },
+  {
+    "id": 11,
+    "title": "Full Stack Engineer",
+    "company": "Razorpay",
+    "location": "INDIA",
+    "type": "Hybrid",
+    "tags": ["Node.js", "React", "PostgreSQL"]
+  },
+  {
+    "id": 12,
+    "title": "Product Manager",
+    "company": "Swiggy",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["Agile", "Roadmaps", "Jira", "Business Analysis"]
+  },
+  {
+    "id": 13,
+    "title": "DevOps Engineer",
+    "company": "Freshworks",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["AWS", "Docker", "Terraform", "CI/CD"]
+  },
+  {
+    "id": 14,
+    "title": "Android Developer",
+    "company": "Ola Cabs",
+    "location": "INDIA",
+    "type": "Onsite",
+    "tags": ["Kotlin", "Java", "Android SDK"]
+  },
+  {
+    "id": 15,
+    "title": "Data Analyst",
+    "company": "Byju’s",
+    "location": "INDIA",
+    "type": "Remote",
+    "tags": ["Python", "SQL", "Tableau"]
+  }
+]
